@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 132341928
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4b40d5cfbe3a03f666c0f24541d0e3d5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 407f8d2114f3ce2e52d68be8b68196a8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Resources/Animator/GF 2.overrideController
+Dependencies:
+- D:/Projects/FNF-Fix/AssetBundles/Android/Animator/base
+- D:/Projects/FNF-Fix/AssetBundles/Android/Animator/dad

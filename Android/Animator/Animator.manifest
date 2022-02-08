@@ -1,0 +1,255 @@
+ManifestFileVersion: 0
+CRC: 2560581735
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: agoti
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_1:
+      Name: aldryx
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_2:
+      Name: altsadmouse
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_3:
+      Name: angrysenpai
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_4:
+      Name: bf
+      Dependencies:
+        Dependency_0: base
+    Info_5:
+      Name: bf_2
+      Dependencies:
+        Dependency_0: bf
+        Dependency_1: base
+    Info_6:
+      Name: bf_3
+      Dependencies:
+        Dependency_0: bf
+        Dependency_1: base
+    Info_7:
+      Name: bf_4
+      Dependencies:
+        Dependency_0: bf
+        Dependency_1: base
+    Info_8:
+      Name: bf_5
+      Dependencies:
+        Dependency_0: bf
+        Dependency_1: base
+    Info_9:
+      Name: bf_6
+      Dependencies:
+        Dependency_0: bf
+        Dependency_1: base
+    Info_10:
+      Name: bf_7
+      Dependencies:
+        Dependency_0: bf
+        Dependency_1: base
+    Info_11:
+      Name: bf_8
+      Dependencies:
+        Dependency_0: bf
+        Dependency_1: base
+    Info_12:
+      Name: bipolarmouse
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_13:
+      Name: cassette
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_14:
+      Name: dad
+      Dependencies:
+        Dependency_0: base
+    Info_15:
+      Name: freddy
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_16:
+      Name: garcello
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_17:
+      Name: garcello_4
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_18:
+      Name: gatblast
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_19:
+      Name: gf 1
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_20:
+      Name: gf 2
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_21:
+      Name: gf 3
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_22:
+      Name: gf 4
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_23:
+      Name: gf 5
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_24:
+      Name: gf 6
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_25:
+      Name: gf 7
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_26:
+      Name: gf 8
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_27:
+      Name: happymouse
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_28:
+      Name: huggy
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_29:
+      Name: jon
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_30:
+      Name: kissy
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_31:
+      Name: lucifer
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_32:
+      Name: mom
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_33:
+      Name: momdad
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_34:
+      Name: monster
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_35:
+      Name: monster_song3
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_36:
+      Name: peashooter
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_37:
+      Name: pico
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_38:
+      Name: promenade
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_39:
+      Name: ruv
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_40:
+      Name: sadmouse
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_41:
+      Name: sarvente
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_42:
+      Name: senpai
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_43:
+      Name: sol
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_44:
+      Name: spirit
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_45:
+      Name: spooky
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_46:
+      Name: tankman
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_47:
+      Name: tricky
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_48:
+      Name: tricky_song3
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_49:
+      Name: whitty
+      Dependencies:
+        Dependency_0: dad
+        Dependency_1: base
+    Info_50:
+      Name: base
+      Dependencies: {}

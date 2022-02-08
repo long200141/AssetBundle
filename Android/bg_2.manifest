@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2818172877
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c5f4e43e6c5e02c628a6e2092ddffde4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c90fc19e2679e5295d10bd00f33cb4c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Resources/Backgrounds/bg_2.png
+Dependencies: []

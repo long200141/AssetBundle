@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 3903069716
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bf51f41076d6a3bf13a195b583a054b2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 95982546179ffdc15e6fb9f4b0d92877
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Animations/BF Asset/BF_1/BF NOTE RIGHT MISS.anim
+- Assets/_Project/Animations/DADDY_asset/Dad Sing Note UP.anim
+- Assets/_Project/Animations/DADDY_asset/Dad Sing Note DOWN.anim
+- Assets/_Project/Animations/DADDY_asset/Dad idle dance.anim
+- Assets/_Project/Animations/DADDY_asset/Dad Sing Note RIGHT.anim
+- Assets/_Project/Sprites/Characters/DADDY_asset.png
+- Assets/_Project/Animations/BF Asset/BF_1/BF NOTE UP MISS.anim
+- Assets/_Project/Animations/BF Asset/BF_1/BF NOTE DOWN.anim
+- Assets/_Project/Animations/BF Asset/BF_1/BF NOTE LEFT.anim
+- Assets/_Project/Animations/BF Asset/BF_1/BF NOTE LEFT MISS.anim
+- Assets/_Project/Sprites/Characters/senpai_asset_song1_2.png
+- Assets/_Project/Animations/BF Asset/BF_1/BF idle dance.anim
+- Assets/_Project/Animations/BF Asset/BF_1/BF NOTE RIGHT.anim
+- Assets/_Project/Animations/DADDY_asset/Dad Sing Note LEFT.anim
+- Assets/_Project/Animations/BF Asset/BF_1/BF NOTE UP.anim
+- Assets/_Project/Sprites/Characters/BF_assets.png
+- Assets/_Project/Animations/BF Asset/BF_1/BF NOTE DOWN MISS.anim
+Dependencies: []

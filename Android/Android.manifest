@@ -1,0 +1,91 @@
+ManifestFileVersion: 0
+CRC: 2029483514
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: 4_bg
+      Dependencies: {}
+    Info_1:
+      Name: bg_1
+      Dependencies: {}
+    Info_2:
+      Name: bg_2
+      Dependencies: {}
+    Info_3:
+      Name: bg_3
+      Dependencies: {}
+    Info_4:
+      Name: bg_4
+      Dependencies: {}
+    Info_5:
+      Name: bg_cassette
+      Dependencies: {}
+    Info_6:
+      Name: bg_crimson
+      Dependencies: {}
+    Info_7:
+      Name: bg_kissy
+      Dependencies: {}
+    Info_8:
+      Name: bg_mouse_song1_2
+      Dependencies: {}
+    Info_9:
+      Name: bg_mouse_song3_4
+      Dependencies: {}
+    Info_10:
+      Name: bg_song1
+      Dependencies: {}
+    Info_11:
+      Name: bg_song2
+      Dependencies: {}
+    Info_12:
+      Name: bg_song3
+      Dependencies: {}
+    Info_13:
+      Name: bg_song_1_2
+      Dependencies: {}
+    Info_14:
+      Name: bg_song_1_3
+      Dependencies: {}
+    Info_15:
+      Name: bg_song_3
+      Dependencies: {}
+    Info_16:
+      Name: bg_song_4
+      Dependencies: {}
+    Info_17:
+      Name: bg_tutorial
+      Dependencies: {}
+    Info_18:
+      Name: bg_week2
+      Dependencies: {}
+    Info_19:
+      Name: bg_week3
+      Dependencies: {}
+    Info_20:
+      Name: bg_week4
+      Dependencies: {}
+    Info_21:
+      Name: bg_week5_song1_2
+      Dependencies: {}
+    Info_22:
+      Name: bg_week5_song3
+      Dependencies: {}
+    Info_23:
+      Name: bg_week6_song1_2
+      Dependencies: {}
+    Info_24:
+      Name: bg_week6_song3
+      Dependencies: {}
+    Info_25:
+      Name: bg_week7
+      Dependencies: {}
+    Info_26:
+      Name: bg_week8
+      Dependencies: {}
+    Info_27:
+      Name: bg_week9
+      Dependencies: {}
+    Info_28:
+      Name: bg_week10
+      Dependencies: {}

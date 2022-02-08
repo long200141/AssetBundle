@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4243933934
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 98c315d893e7bd7b45811f939fb50e18
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c90fc19e2679e5295d10bd00f33cb4c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Resources/Backgrounds/bg_song3.png
+Dependencies: []
