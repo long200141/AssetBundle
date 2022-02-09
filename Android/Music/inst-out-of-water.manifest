@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 582145202
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b328dfb01fcde5de1eb4e6b682afa532
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sounds/Inst-out-of-water.ogg
+Dependencies: []
