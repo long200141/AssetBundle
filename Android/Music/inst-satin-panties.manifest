@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1137216019
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 811ec6653231a20238159bf08081f9e0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Resources/Sounds/Inst-satin-panties.mp3
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2416912213
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c89765d0ff6f98d82c500c6f32142a59
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Resources/Sounds/Inst-eggnog.mp3
+Dependencies: []

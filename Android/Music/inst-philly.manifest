@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 904735263
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 07d7410c21af3f1b7ec222225b3cfb66
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Resources/Sounds/Inst-philly.mp3
+Dependencies: []

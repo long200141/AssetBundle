@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1382912639
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1ff3393c8e22249905d2f1c2def4ec8a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Resources/Sounds/Inst-high.mp3
+Dependencies: []
