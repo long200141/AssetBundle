@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2887277791
+CRC: 4222221195
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4ae9da52b71af0e11640d4d4ec42a18d
+    Hash: 74335d3a8bdcc06c83030ea5c9059b80
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
@@ -13,5 +13,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/_Project/Sounds/Inst-no-bullies.ogg
+- Assets/_Project/Sounds/Inst-no-bullies.mp3
 Dependencies: []

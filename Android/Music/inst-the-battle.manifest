@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 729523289
+CRC: 3762800444
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 17e24da7071f8d9fd8f2c019b58edfd9
+    Hash: be423562f0a0fe6cc0928895aa0bf80b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
@@ -13,5 +13,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/_Project/Sounds/Inst-the-battle.ogg
+- Assets/_Project/Sounds/Inst-the-battle.mp3
 Dependencies: []

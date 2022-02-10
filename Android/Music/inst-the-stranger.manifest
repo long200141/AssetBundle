@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 273708336
+CRC: 2006958307
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 210d99f394818ca4b848a854a3aed296
+    Hash: db2560230f9dc09cec18c6ed8117aaf0
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
@@ -13,5 +13,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/_Project/Sounds/Inst-the-stranger.ogg
+- Assets/_Project/Sounds/Inst-the-stranger.mp3
 Dependencies: []

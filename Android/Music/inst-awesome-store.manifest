@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3578534415
+CRC: 2033861086
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 02d7a716f48f2ff3dd5321ca31ea6a13
+    Hash: a4ebb366601318ba29813edb95d655e9
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
@@ -13,5 +13,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/_Project/Sounds/Inst-awesome-store.ogg
+- Assets/_Project/Sounds/Inst-awesome-store.mp3
 Dependencies: []

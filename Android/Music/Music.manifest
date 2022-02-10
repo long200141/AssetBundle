@@ -1,58 +1,28 @@
 ManifestFileVersion: 0
-CRC: 3053226614
+CRC: 3819703715
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: inst-blammed
+      Name: inst-awesome-store
       Dependencies: {}
     Info_1:
-      Name: inst-cocoa
+      Name: inst-faker
       Dependencies: {}
     Info_2:
-      Name: inst-eggnog
+      Name: inst-no-bullies
       Dependencies: {}
     Info_3:
-      Name: inst-guns
+      Name: inst-on-my-way
       Dependencies: {}
     Info_4:
-      Name: inst-high
+      Name: inst-out-of-water
       Dependencies: {}
     Info_5:
-      Name: inst-milf
+      Name: inst-the-battle
       Dependencies: {}
     Info_6:
-      Name: inst-monster
+      Name: inst-the-rapper
       Dependencies: {}
     Info_7:
-      Name: inst-philly
-      Dependencies: {}
-    Info_8:
-      Name: inst-pico
-      Dependencies: {}
-    Info_9:
-      Name: inst-roses
-      Dependencies: {}
-    Info_10:
-      Name: inst-satin-panties
-      Dependencies: {}
-    Info_11:
-      Name: inst-senpai
-      Dependencies: {}
-    Info_12:
-      Name: inst-south
-      Dependencies: {}
-    Info_13:
-      Name: inst-spookeez
-      Dependencies: {}
-    Info_14:
-      Name: inst-stress
-      Dependencies: {}
-    Info_15:
-      Name: inst-thorns
-      Dependencies: {}
-    Info_16:
-      Name: inst-ugh
-      Dependencies: {}
-    Info_17:
-      Name: inst-winter-horrorland
+      Name: inst-the-stranger
       Dependencies: {}

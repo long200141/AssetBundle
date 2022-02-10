@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1174245994
+CRC: 1675481284
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0792a05d2176a23a447077a2cb9885ca
+    Hash: 658101fa3a16aec7b9b15fd73924148b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
@@ -13,5 +13,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/_Project/Sounds/Inst-the-rapper.ogg
+- Assets/_Project/Sounds/Inst-the-rapper.mp3
 Dependencies: []
