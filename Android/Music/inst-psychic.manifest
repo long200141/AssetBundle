@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 220704792
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1528aef976806c3e2943e68c7845fa1b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/Mind Games/Inst-psychic.mp3
+Dependencies: []
