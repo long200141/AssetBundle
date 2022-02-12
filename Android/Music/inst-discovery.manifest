@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3880624296
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 46f12abf24c365f43268b0b2d186b5cf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/VS FNAF 3/Inst-discovery.mp3
+Dependencies: []
