@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2799174539
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a8a527cbc45ee0a97331b580fa381c6b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sounds/Inst-rain.mp3
+Dependencies: []
