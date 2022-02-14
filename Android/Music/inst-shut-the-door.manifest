@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2310931621
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 15cb4be447740f6194aa52dd5c6f4ba1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/FNAF 1/Inst-shut-the-door.mp3
+Dependencies: []

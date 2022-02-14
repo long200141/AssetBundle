@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4062624143
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e3ed8f616f967d0bd61eb9e750ef1ae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/FNAF 1/Inst-terrorizing.mp3
+Dependencies: []
