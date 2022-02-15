@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4246081244
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 575f830981c9d44bc49ced9ea2a94466
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c90fc19e2679e5295d10bd00f33cb4c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/Vs Whitty/bg_song3_whitty.png
+Dependencies: []

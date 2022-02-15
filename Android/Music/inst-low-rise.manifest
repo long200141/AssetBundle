@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1954684405
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3e87acc18f82c551d72e028b83a3cc66
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/Vs Whitty/Inst-low-rise.mp3
+Dependencies: []

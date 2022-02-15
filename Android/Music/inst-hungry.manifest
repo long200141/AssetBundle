@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 532658230
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b79a0b4a264c98f08fe2cec2d6da6847
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/Vs Whitty/Inst-hungry.mp3
+Dependencies: []
