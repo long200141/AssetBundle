@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1800585617
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bcd6664d481f7a216b071ed79618c8ef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/Mario/Inst-i-hate-you.mp3
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3555842066
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: da4c7427bfc1d0f6e37980cac5aa20b6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/Mario/Inst-alone.mp3
+Dependencies: []

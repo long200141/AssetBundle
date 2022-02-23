@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 311065543
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 04b40ca895f8464dc82fd4c85ed49b9a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/Mario/Inst-apparition.mp3
+Dependencies: []
