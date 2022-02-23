@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1666765257
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d26f1a2dd551884b5bfb7475a3eaecd7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 407f8d2114f3ce2e52d68be8b68196a8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Resources/Animator/Monster_Song3.overrideController
+Dependencies:
+- D:/Projects/FNF-Fix/AssetBundles/IOS/Animator/base
+- D:/Projects/FNF-Fix/AssetBundles/IOS/Animator/dad

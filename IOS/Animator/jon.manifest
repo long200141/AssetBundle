@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3035877573
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 336923e4d82c6a9ca3038b06b0be3326
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 407f8d2114f3ce2e52d68be8b68196a8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleUnBuild/Animator/Jon.overrideController
+Dependencies:
+- D:/Projects/FNF-Fix/AssetBundles/IOS/Animator/base
+- D:/Projects/FNF-Fix/AssetBundles/IOS/Animator/dad

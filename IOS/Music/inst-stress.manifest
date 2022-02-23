@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2971158173
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1e9dfe46433f446ab137f115d23f49d5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleUnBuild/Sounds/Inst-stress.mp3
+Dependencies: []

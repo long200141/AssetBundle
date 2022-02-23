@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4281271520
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cb8f12d2f6a1bb57c7e9304fad795315
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleUnBuild/Sounds/Inst-roses.mp3
+Dependencies: []

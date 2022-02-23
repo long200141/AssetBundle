@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3458096337
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 732f38188143ae55ac5754f097badb18
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleUnBuild/Sounds/Inst-uproar.mp3
+Dependencies: []

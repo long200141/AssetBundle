@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 634345008
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30a30c578b8b2e848159da6bf0e7e958
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 77d09a43e8e7ce1ebf60eecb0c1cb61f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Resources/Animator/Bonnie.overrideController
+Dependencies:
+- D:/Projects/FNF-Fix/AssetBundles/IOS/Animator/base
+- D:/Projects/FNF-Fix/AssetBundles/IOS/Animator/dad

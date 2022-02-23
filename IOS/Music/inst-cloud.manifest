@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1902153647
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f4fd7feacb9b651cd8a0e478956c0ecd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleUnBuild/Sounds/Inst-cloud.mp3
+Dependencies: []

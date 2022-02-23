@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 237200410
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 88bc429f91eeb9c157ceabc1d3051f57
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 77d09a43e8e7ce1ebf60eecb0c1cb61f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Resources/Animator/Cloud-2.overrideController
+Dependencies:
+- D:/Projects/FNF-Fix/AssetBundles/IOS/Animator/base
+- D:/Projects/FNF-Fix/AssetBundles/IOS/Animator/dad

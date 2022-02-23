@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 335205573
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 86d6ce4ac94f515803827423d5cae36d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fdf6c57a251b9f6ec27bdd2fe01b033c
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Resources/Animator/BF.overrideController
+Dependencies:
+- D:/Projects/FNF-Fix/AssetBundles/IOS/Animator/base

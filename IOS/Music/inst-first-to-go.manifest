@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1977281113
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 893ff9a7cf6622f9d9b2c3cf4c07c25d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleUnBuild/Sounds/Inst-first-to-go.mp3
+Dependencies: []

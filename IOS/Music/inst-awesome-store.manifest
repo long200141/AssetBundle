@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3163544979
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 19e74a9aa4c81a296f3824015e1475ad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleUnBuild/Sounds/Inst-awesome-store.mp3
+Dependencies: []

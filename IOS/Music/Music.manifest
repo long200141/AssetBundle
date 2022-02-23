@@ -1,0 +1,127 @@
+ManifestFileVersion: 0
+CRC: 111048176
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: inst-awesome-store
+      Dependencies: {}
+    Info_1:
+      Name: inst-blammed
+      Dependencies: {}
+    Info_2:
+      Name: inst-blooming-phantoms
+      Dependencies: {}
+    Info_3:
+      Name: inst-cloud
+      Dependencies: {}
+    Info_4:
+      Name: inst-cocoa
+      Dependencies: {}
+    Info_5:
+      Name: inst-confidant
+      Dependencies: {}
+    Info_6:
+      Name: inst-discovery
+      Dependencies: {}
+    Info_7:
+      Name: inst-eggnog
+      Dependencies: {}
+    Info_8:
+      Name: inst-faker
+      Dependencies: {}
+    Info_9:
+      Name: inst-faucet
+      Dependencies: {}
+    Info_10:
+      Name: inst-first-to-go
+      Dependencies: {}
+    Info_11:
+      Name: inst-guns
+      Dependencies: {}
+    Info_12:
+      Name: inst-high
+      Dependencies: {}
+    Info_13:
+      Name: inst-hungry
+      Dependencies: {}
+    Info_14:
+      Name: inst-low-rise
+      Dependencies: {}
+    Info_15:
+      Name: inst-milf
+      Dependencies: {}
+    Info_16:
+      Name: inst-monster
+      Dependencies: {}
+    Info_17:
+      Name: inst-no-bullies
+      Dependencies: {}
+    Info_18:
+      Name: inst-on-my-way
+      Dependencies: {}
+    Info_19:
+      Name: inst-out-of-water
+      Dependencies: {}
+    Info_20:
+      Name: inst-philly
+      Dependencies: {}
+    Info_21:
+      Name: inst-pico
+      Dependencies: {}
+    Info_22:
+      Name: inst-psychic
+      Dependencies: {}
+    Info_23:
+      Name: inst-rain
+      Dependencies: {}
+    Info_24:
+      Name: inst-roses
+      Dependencies: {}
+    Info_25:
+      Name: inst-satin-panties
+      Dependencies: {}
+    Info_26:
+      Name: inst-senpai
+      Dependencies: {}
+    Info_27:
+      Name: inst-shut-the-door
+      Dependencies: {}
+    Info_28:
+      Name: inst-south
+      Dependencies: {}
+    Info_29:
+      Name: inst-spookeez
+      Dependencies: {}
+    Info_30:
+      Name: inst-stress
+      Dependencies: {}
+    Info_31:
+      Name: inst-terrorizing
+      Dependencies: {}
+    Info_32:
+      Name: inst-the-battle
+      Dependencies: {}
+    Info_33:
+      Name: inst-the-rapper
+      Dependencies: {}
+    Info_34:
+      Name: inst-the-stranger
+      Dependencies: {}
+    Info_35:
+      Name: inst-thorns
+      Dependencies: {}
+    Info_36:
+      Name: inst-ugh
+      Dependencies: {}
+    Info_37:
+      Name: inst-underground
+      Dependencies: {}
+    Info_38:
+      Name: inst-uproar
+      Dependencies: {}
+    Info_39:
+      Name: inst-wilter
+      Dependencies: {}
+    Info_40:
+      Name: inst-winter-horrorland
+      Dependencies: {}

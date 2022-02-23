@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1321376511
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 907b51eb54e1a0de2fdc3cd3bc57c554
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 407f8d2114f3ce2e52d68be8b68196a8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleUnBuild/Animator/Cassette.overrideController
+Dependencies:
+- D:/Projects/FNF-Fix/AssetBundles/IOS/Animator/base
+- D:/Projects/FNF-Fix/AssetBundles/IOS/Animator/dad

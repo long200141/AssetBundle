@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2276687143
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6b97b8af8e7fd0c1424d39f5f9cbd8d4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 77d09a43e8e7ce1ebf60eecb0c1cb61f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Resources/Animator/Gumbal.overrideController
+Dependencies:
+- D:/Projects/FNF-Fix/AssetBundles/IOS/Animator/base
+- D:/Projects/FNF-Fix/AssetBundles/IOS/Animator/dad

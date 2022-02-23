@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1957937719
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a0e73a6981358d7bb840ee7235c26e94
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fa9db69ee15a570911d0591a9ee1e456
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Resources/Animator/AngrySenpai.overrideController
+Dependencies:
+- D:/Projects/FNF-Fix/AssetBundles/IOS/Animator/base
+- D:/Projects/FNF-Fix/AssetBundles/IOS/Animator/dad

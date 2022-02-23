@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2061927469
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 21a84a871250858c47e36756dde9181a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c90fc19e2679e5295d10bd00f33cb4c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleUnBuild/Backgrounds/bg_song1_joker.png
+Dependencies: []

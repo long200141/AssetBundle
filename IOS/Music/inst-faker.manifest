@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3016211968
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0618baf7f19b67b5146eda504d949a9f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleUnBuild/Sounds/Inst-faker.mp3
+Dependencies: []
