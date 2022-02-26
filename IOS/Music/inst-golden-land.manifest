@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4182015298
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c7f2d2f778e4adbfc0e0e1084e2b5ae2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/Mario/Inst-golden-land.mp3
+Dependencies: []

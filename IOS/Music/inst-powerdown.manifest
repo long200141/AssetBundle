@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 606684548
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e0fde1f68d7a78af7cace73b27b6aeb5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/Mario/Inst-powerdown.mp3
+Dependencies: []
