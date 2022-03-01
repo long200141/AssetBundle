@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3246864571
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6185971b6c0cf5c2ef9e2863cc551c30
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/VS Impostor Restyle/Inst-sussus-moogus.mp3
+Dependencies: []

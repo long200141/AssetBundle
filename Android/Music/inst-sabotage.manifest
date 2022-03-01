@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3276288313
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f59d774d0f741cce3729a15c6ed1d46
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/VS Impostor Restyle/Inst-sabotage.mp3
+Dependencies: []
