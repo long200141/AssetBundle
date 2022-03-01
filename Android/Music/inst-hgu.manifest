@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1822662321
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7da0604457d63647cfb5ed1c6b6973d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/Corrupted Night/Inst-hgu.mp3
+Dependencies: []

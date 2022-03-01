@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2492029609
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8f33d74dd9ba6389630c3aa28980c9f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/Tails Secret Histories/Inst-red-flag.mp3
+Dependencies: []

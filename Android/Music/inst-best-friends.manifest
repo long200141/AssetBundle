@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 676738078
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 779a5c9654f04d31b042470020bd419e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/Tails Secret Histories/Inst-best-friends.mp3
+Dependencies: []
