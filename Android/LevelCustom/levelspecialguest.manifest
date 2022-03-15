@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 2038496964
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b5cce212ae51fe39ab48bffe8315a31f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 44b8bfd7cb6e4f786987e04927a59f51
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf95d3f3e8ddb4f629fc3a0eb696a9cc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2dad831943094cc46a90290e4280688f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/VS Mommy Long Legs/2_Special Guest/LevelSpecialGuest.prefab
+Dependencies: []
