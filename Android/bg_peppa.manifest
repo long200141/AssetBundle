@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3824589166
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 94885c3295f1f485d2da7a22a09542f8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c90fc19e2679e5295d10bd00f33cb4c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/Pibby Peppa Pig/bg_peppa.png
+Dependencies: []
