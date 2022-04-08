@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1719390583
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2de6a99cc412ad676fbd6ff5be4ef083
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/Will Smith VS. Chris Rock/Backhand/Inst-backhand.mp3
+Dependencies: []
