@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2473254321
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 43b282583ea1b5ed7d3d1400f595102a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/Cuphead Sans Bendy Indie Cross/2_San Character/Inst-sansational.mp3
+Dependencies: []

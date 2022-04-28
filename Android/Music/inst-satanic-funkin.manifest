@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2028057676
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 382f9ae13f04800ff82a9fd7f291b23d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/Cuphead Sans Bendy Indie Cross/4_Devil Character/Inst-satanic-funkin.mp3
+Dependencies: []

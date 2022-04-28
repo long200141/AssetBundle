@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 567977515
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 210309251891f7fe89987e35b8a96017
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/Cuphead Sans Bendy Indie Cross/3_Bendy Character/Inst-terrible-sin.mp3
+Dependencies: []

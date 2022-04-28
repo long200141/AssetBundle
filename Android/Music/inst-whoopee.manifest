@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4151926585
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 97a876a0ae12b3ada628619abde742d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/Cuphead Sans Bendy Indie Cross/2_San Character/Inst-whoopee.mp3
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 23312273
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3205260c44ae203d8919a7c3f1fa357b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/Cuphead Sans Bendy Indie Cross/1_Cuphead Character/Inst-technicolor-tussle.mp3
+Dependencies: []
