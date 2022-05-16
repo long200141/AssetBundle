@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2885252560
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b3f08f5f778c8a95b8372a4a9de92ae1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/Sonic/Inst-cycles.mp3
+Dependencies: []
