@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 387001159
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9604c18f25b6181140b48436b51ac0e8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/Poppy Raptime/Inst-make-a-friend.mp3
+Dependencies: []

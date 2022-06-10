@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2060006840
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5620432c2d9b1cad818135d22d0afc8a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/Poppy Raptime/Inst-no-more-hug.mp3
+Dependencies: []
