@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2304646355
+CRC: 1382564006
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e098909e6a19b6727c272e2706a81010
+    Hash: 9d6a146cf2771ec269663ecc12f48df2
   TypeTreeHash:
     serializedVersion: 2
     Hash: 44b8bfd7cb6e4f786987e04927a59f51
@@ -39,5 +39,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/_Project/Sprites/Characters/Baddies FULL WEEK/1_Encounter.prefab
+- Assets/_Project/Sprites/Characters/Baddies FULL WEEK/1_encounter.prefab
 Dependencies: []
