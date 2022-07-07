@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2332644857
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: efd90a15eed80fc043a4b0a4918677c2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/Baddies FULL WEEK/Inst-uhoh.mp3
+Dependencies: []

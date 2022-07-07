@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 687090592
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 418ce802bcc6f47c3d8f491c17958468
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/Baddies FULL WEEK/Inst-aye-papi.mp3
+Dependencies: []
