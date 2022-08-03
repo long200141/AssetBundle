@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1225771067
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6c0675fd18e5ca9b0b6113655678e770
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/Pico vs Evil BF/3_Unable/Inst-unable.mp3
+Dependencies: []

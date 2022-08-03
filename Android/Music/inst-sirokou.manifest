@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 343160966
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 26d9e471fe19fbe3d7d989156a02fb04
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/The Basement Show/3_Sirokou/Inst-sirokou.mp3
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2676766331
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3a848c6fdc2943d3c866c607fa3ad43d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/The Basement Show/4_Meme Mania/Inst-meme-mania.mp3
+Dependencies: []

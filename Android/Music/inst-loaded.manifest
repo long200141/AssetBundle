@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 635817962
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aab931af6eb47cdf6b8a4fb9e9eade16
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/Pico vs Evil BF/2_Loaded/Inst-loaded.mp3
+Dependencies: []

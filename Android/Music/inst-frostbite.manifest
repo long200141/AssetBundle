@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2276340274
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4eae0a93a3e5604e831d71c519f73b9d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/Pico vs Evil BF/1_Frostbite/Inst-frostbite.mp3
+Dependencies: []
