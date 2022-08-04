@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3221732231
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dc84e7b08608692da1f7661801f9e80f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 407f8d2114f3ce2e52d68be8b68196a8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleUnBuild/Animator/lemdem_evil.overrideController
+Dependencies: []
