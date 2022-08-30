@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 208086532
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 354dfd0f0c1e0a654a2e6ac9ed7e92db
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Resources/Jsons/best-friends-normal.json
+- Assets/_Project/Resources/Jsons/best-friends-hard.json
+- Assets/_Project/Resources/Jsons/best-friends-easy.json
+Dependencies: []
