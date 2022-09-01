@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 1454966510
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f061dc85ee08ba0b273ae4902da28262
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 72ca84a679488cb87d35c1c91d21a5f7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf95d3f3e8ddb4f629fc3a0eb696a9cc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2dad831943094cc46a90290e4280688f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1103510a0c417c046aea6773fafcb1be, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/Rain Bow/rainbow.prefab
+Dependencies: []
