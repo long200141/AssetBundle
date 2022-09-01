@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3552479482
+CRC: 2639528722
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 311847719abd5236067afc3c8cbc09f3
+    Hash: 62ed199c39ed2dd89740b36afb22df95
   TypeTreeHash:
     serializedVersion: 2
     Hash: 72ca84a679488cb87d35c1c91d21a5f7
@@ -41,5 +41,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/_Project/Sprites/Characters/Rain Bow/Rainbow.prefab
+- Assets/_Project/Sprites/Characters/Rain Bow/rainbow.prefab
 Dependencies: []
