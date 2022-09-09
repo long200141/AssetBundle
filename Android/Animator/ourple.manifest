@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2663966662
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bac9ed7146d193dbc039f4e8f53aa44f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 407f8d2114f3ce2e52d68be8b68196a8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/Rain Bow Friends/Ranbo Friends/characters/ourple/Animations-Generated/ourple.overrideController
+Dependencies: []
