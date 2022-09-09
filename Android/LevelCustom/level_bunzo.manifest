@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2005686102
+CRC: 3787831648
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4bdbeff0db17cac059bef1775495a0d1
+    Hash: 5ba6b05876b52cc0378dd86a20c0780d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 44b8bfd7cb6e4f786987e04927a59f51
@@ -39,5 +39,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/_Project/Sprites/Characters/Bonus VS Bunzo Bunny/level_bunzo.prefab
+- Assets/_Project/Sprites/Characters/Old mod/Bonus VS Bunzo Bunny/level_bunzo.prefab
 Dependencies: []
