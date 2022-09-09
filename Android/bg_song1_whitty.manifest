@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 392805504
+CRC: 2413252267
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 82dde0effc81de38858803005ba267fe
+    Hash: ce02fa10203183be9e872181c6df383e
   TypeTreeHash:
     serializedVersion: 2
     Hash: c90fc19e2679e5295d10bd00f33cb4c3
@@ -15,5 +15,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/_Project/Resources/Backgrounds/bg_song1_imposter.png
+- Assets/_Project/Resources/Backgrounds/bg_song1_whitty.png
 Dependencies: []
