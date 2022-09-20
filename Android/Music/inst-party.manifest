@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3015548368
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dbd074dbee592a94be0f8e4af58dc1ac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleUnBuild/Rainbow Friends Full/2_Party/Inst-Party.mp3
+Dependencies: []
