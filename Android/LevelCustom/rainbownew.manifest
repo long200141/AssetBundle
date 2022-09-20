@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2242141560
+CRC: 4238266332
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fc00491cac1845a48cc32f22c9bdad25
+    Hash: 3bb4e3c0a261f4e21c5e723317a63e17
   TypeTreeHash:
     serializedVersion: 2
     Hash: 0f1c470cc5c72dca360f17d8b1df260c
@@ -42,5 +42,4 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/_Project/Sprites/Characters/RainbowNew/rainbowNew.prefab
-Dependencies:
-- C:/Users/Admin/Desktop/FNF rapper 2/AssetBundles/Android/LevelCustom/bg_rainbow
+Dependencies: []
