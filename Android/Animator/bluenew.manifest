@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2116818766
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2ba35443f856de05f1c4e70c6b6afb2d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 407f8d2114f3ce2e52d68be8b68196a8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleUnBuild/Rainbow Friends Full/BlueNew.overrideController
+Dependencies: []
