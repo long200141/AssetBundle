@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1790912596
+CRC: 1653809919
 Hashes:
   AssetFileHash:
     serializedVersion: 2
@@ -13,5 +13,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/_Project/Sprites/Characters/RainbowNew/Inst-PartyRemasted.mp3
+- Assets/_Project/Resources/Sounds/Inst-PartyRemasted.mp3
 Dependencies: []

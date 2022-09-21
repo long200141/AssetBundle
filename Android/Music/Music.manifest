@@ -1,28 +1,7 @@
 ManifestFileVersion: 0
-CRC: 3819703715
+CRC: 2629970443
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: inst-awesome-store
-      Dependencies: {}
-    Info_1:
-      Name: inst-faker
-      Dependencies: {}
-    Info_2:
-      Name: inst-no-bullies
-      Dependencies: {}
-    Info_3:
-      Name: inst-on-my-way
-      Dependencies: {}
-    Info_4:
-      Name: inst-out-of-water
-      Dependencies: {}
-    Info_5:
-      Name: inst-the-battle
-      Dependencies: {}
-    Info_6:
-      Name: inst-the-rapper
-      Dependencies: {}
-    Info_7:
-      Name: inst-the-stranger
+      Name: inst-partyremasted
       Dependencies: {}
