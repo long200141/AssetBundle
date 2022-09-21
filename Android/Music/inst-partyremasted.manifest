@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 4247275083
+CRC: 1790912596
 Hashes:
   AssetFileHash:
     serializedVersion: 2
@@ -13,5 +13,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/AssetBundleUnBuild/Rainbow Friends Full/3_Party Remasted/Inst-PartyRemasted.mp3
+- Assets/_Project/Sprites/Characters/RainbowNew/Inst-PartyRemasted.mp3
 Dependencies: []
