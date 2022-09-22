@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4141742474
+CRC: 4161595285
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0fa3bdb73f7275163656397008569a20
+    Hash: c4e7ad04061d860df878f39d4cd025da
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
@@ -13,5 +13,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/AssetBundleUnBuild/Rainbow Friends Full/1_Flare/Inst-flare.mp3
+- Assets/_Project/Sprites/Characters/RainbowNew/Inst-flare.mp3
 Dependencies: []
