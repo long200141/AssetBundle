@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1010604856
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c22f6ae8c6df02f352d5e952ca6515a9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 407f8d2114f3ce2e52d68be8b68196a8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleUnBuild/Animator/ambush.overrideController
+Dependencies: []
