@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 179807236
+CRC: 3065092632
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 241cc063d591115e957fd0d0fb49df58
+    Hash: 258edb5b2eae89ef3f07d222d47d29b6
   TypeTreeHash:
     serializedVersion: 2
     Hash: c90fc19e2679e5295d10bd00f33cb4c3
@@ -15,5 +15,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/_Project/Sprites/Characters/FNF After The Week/bg_song1.png
+- Assets/_Project/Sprites/Characters/FNF After The Week/bg_song2_1.png
 Dependencies: []
