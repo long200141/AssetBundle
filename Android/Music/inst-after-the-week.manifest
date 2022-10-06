@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1464221285
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d2b8946a173c02ed76a5a0600a29c4b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/FNF After The Week/1_After The Week/Inst-after-the-week.mp3
+Dependencies: []

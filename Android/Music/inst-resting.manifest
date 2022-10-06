@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1284701609
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9b89bc593599e56ac87323d38bcc2831
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/FNF After The Week/2_Resting/Inst-resting.mp3
+Dependencies: []
