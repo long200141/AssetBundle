@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2126337263
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9b8ad430e7c621d834b9c35a971a61ba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 407f8d2114f3ce2e52d68be8b68196a8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/FNF After The Week/3_Midnight/Animations-Generated-SpookyKis/Spooky_new.overrideController
+Dependencies: []
