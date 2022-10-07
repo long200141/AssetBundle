@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 639507835
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 270f43bd784e3a3fc470ead76874a018
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/FNF Vs Roblox DOORS/2_No Time/Inst-no-time.mp3
+Dependencies: []
