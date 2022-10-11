@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3998574531
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 217c09cedec6d8a78faeba1dc72c2aeb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/Rain Bow Friends/1_Odd Friend/Inst-odd-friend.mp3
+Dependencies: []
