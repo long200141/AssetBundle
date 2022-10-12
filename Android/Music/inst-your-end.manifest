@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1978059711
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ad95096816037affe59a746d569f25a3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/Rain Bow Friends/2_Friend To Your End/Inst-your-end.mp3
+Dependencies: []
