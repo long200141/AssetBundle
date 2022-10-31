@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3688945616
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 95ea7e0ee5ff6161caf79e9b0e62f9c8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/VS Hypno_s Lullaby Pokemon/3_Brimstone/Inst-brimstone.mp3
+Dependencies: []
