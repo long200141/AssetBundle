@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 388807782
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 12105c4bacad61c8f2de65a0593d3759
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/FNF Guys Knockout/1_Fallen/Inst-fallen.mp3
+Dependencies: []
