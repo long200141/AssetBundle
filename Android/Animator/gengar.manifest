@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2627118045
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bb11255395e7a5b7c222984f78a05ab2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 407f8d2114f3ce2e52d68be8b68196a8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/VS Hypno_s Lullaby Pokemon/3_Brimstone/Animations-enter/gengar.overrideController
+Dependencies: []

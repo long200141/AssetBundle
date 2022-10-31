@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3805493990
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 02c8e4f4c2ec9048a85d204925ad0a88
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 407f8d2114f3ce2e52d68be8b68196a8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/VS Hypno_s Lullaby Pokemon/3_Brimstone/Animations-buryman/buryman.overrideController
+Dependencies: []
