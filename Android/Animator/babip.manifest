@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3138343073
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 556ea3c2d2f575378b455967bb45c1a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 407f8d2114f3ce2e52d68be8b68196a8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/VS Hypno_s Lullaby Pokemon/4_Purin/4_Purin/Animations-Generated/Babip.overrideController
+Dependencies: []
