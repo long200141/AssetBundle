@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 61276029
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ecc19b1cc2902ae0493384c348722685
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c90fc19e2679e5295d10bd00f33cb4c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/VS Hypno_s Lullaby Pokemon/3_Brimstone/bg_brimstone.png
+Dependencies: []
