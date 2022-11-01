@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 731610877
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7ffb30edf62d2789317bc92bf58e4a17
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 68cd093481ef2c8317bf1c4017005d5f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9308ed319863b1345a97523614509f50, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf95d3f3e8ddb4f629fc3a0eb696a9cc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2dad831943094cc46a90290e4280688f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f7ca3389a134f634b8ddffe20512c660, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/VS Hypno_s Lullaby Pokemon/3_Brimstone/Brim.prefab
+Dependencies: []
