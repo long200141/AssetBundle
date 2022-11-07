@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 530470858
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4290ca0f15b092d9a5246cfd3014758b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 407f8d2114f3ce2e52d68be8b68196a8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/FNF Alphabet Lore Vs F/Animations-Generated/F.overrideController
+Dependencies: []
