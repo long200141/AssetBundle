@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2350307344
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c17f50ef794e5b45a05101181b4f9459
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/VS Bendy Bedeviled Darlin/1_Inky Beats/Inst-inky-beats.mp3
+Dependencies: []

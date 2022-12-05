@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1138676469
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6eac9984f06f4521f3c09dc7a55c6050
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/VS Bendy Bedeviled Darlin/3_Vesania/Inst-vesania.mp3
+Dependencies: []
