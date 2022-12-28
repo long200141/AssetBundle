@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3031573172
+CRC: 392217132
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8afec48992b77540aa33a8d60640e82d
+    Hash: 4920ffdc350cde35f9615007fc9893a8
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
@@ -13,5 +13,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/_Project/Sprites/Characters/VS Boxy Boo Project Playtime/1_Jack o Fun/inst-jack-o-fun.mp3
+- Assets/_Project/Sprites/Characters/VS Boxy Boo Project Playtime/1_Jack o Fun/Inst-jack-o-fun.mp3
 Dependencies: []
