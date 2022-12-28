@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 4248664956
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1159823a6b552a80587b5cd83c7b4804
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 751521e8314d843aa831401dfd2c3711
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/VS Boxy Boo Project Playtime/Animations-Generated-P/Playerboxy.overrideController
+Dependencies: []
