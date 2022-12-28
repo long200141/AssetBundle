@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 4229333738
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ce47b5c3e89e349e59c84c49000b966b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c9d8396529fe7f3acd1ad764b9a1b897
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2dad831943094cc46a90290e4280688f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf95d3f3e8ddb4f629fc3a0eb696a9cc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: daba8bf603e99ff4498dd78de8cc01c7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/VS Boxy Boo Project Playtime/BOXYBOO.prefab
+Dependencies: []
