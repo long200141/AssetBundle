@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3031573172
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8afec48992b77540aa33a8d60640e82d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/VS Boxy Boo Project Playtime/1_Jack o Fun/inst-jack-o-fun.mp3
+Dependencies: []
