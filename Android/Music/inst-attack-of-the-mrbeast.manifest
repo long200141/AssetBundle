@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3469257714
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f1ba855cb62daa1fd63c2e5f388bb6df
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Project/Sprites/Characters/amnim mrbeat/Inst-attack-of-the-mrbeast.ogg
+Dependencies: []
