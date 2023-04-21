@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3469257714
+CRC: 3324534027
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f1ba855cb62daa1fd63c2e5f388bb6df
+    Hash: 6934294b18a8efd259ec53c33655af10
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
@@ -13,5 +13,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/_Project/Sprites/Characters/amnim mrbeat/Inst-attack-of-the-mrbeast.ogg
+- Assets/_Project/Sprites/Characters/amnim mrbeat/Inst-attack-of-the-mrbeast.mp3
 Dependencies: []
